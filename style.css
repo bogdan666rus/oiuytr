@@ -1,0 +1,11 @@
+header { border: 1px solid black;
+margin: 1px;
+padding: 1px;
+border-radius: 15px;
+}
+h1 {
+    color: rgb(15, 15, 196);
+}
+td {
+    border: 1px solid black
+}
